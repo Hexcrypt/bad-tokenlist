@@ -1,0 +1,9 @@
+{
+  "name": "Kraken Token Blacklist",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x158ba75aace3f91e95937c0856d6369cde7a151e"
+    }
+  ]
+}
